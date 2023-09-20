@@ -1,0 +1,17 @@
+
+
+1. **Create Table**:
+
+   - **Wat doet het?**: Dit recht stelt gebruikers in staat om nieuwe tabellen in een database aan te maken.
+   - **Wanneer heb je dit nodig?**: Dit recht is nodig wanneer je nieuwe datavelden of categorieën wilt maken om gegevens in de database op te slaan. Het is handig bij het ontwerpen van nieuwe gegevensstructuren.
+   - **Wat zou een hacker hiermee kunnen?**: Als een hacker ongeautoriseerde toegang heeft tot het "Create Table"-recht, kan hij nieuwe tabellen maken om gestolen gegevens op te slaan of gegevens te manipuleren.
+
+2. **Alter Schema**:
+
+   - **Wat doet het?**: Dit recht geeft gebruikers de mogelijkheid om de structuur van een bestaand schema (databaseobjecten zoals tabellen, views, etc.) te wijzigen.
+   - **Wanneer heb je dit nodig?**: Dit recht is handig wanneer je de structuur van een database moet aanpassen, bijvoorbeeld wanneer nieuwe gegevensvelden moeten worden toegevoegd of bestaande velden moeten worden gewijzigd.
+   - **Wat zou een hacker hiermee kunnen?**: Een hacker met het "Alter Schema"-recht kan de databasestructuur wijzigen om gegevens te manipuleren of schadelijke wijzigingen aan te brengen die de werking van de applicatie kunnen verstoren.
+
+3. **Drop Table**
+
+4. **Grant Option**
