@@ -1,0 +1,6 @@
+Restaurant Sallora Amsterdam
+
+1. Straatnaam: "Osdorpplein"  VARCHAR
+2. Huisnummer: "1010"         VARCHAR of INT
+3. Postcode: "1068 TG"        VARCHAR
+4. Stad: "Amsterdam"          VARCHAR
